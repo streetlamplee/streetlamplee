@@ -12,9 +12,7 @@ I hope me to resolve multiple issues all around the world with data 😃🛠
 
 Platforms & Lauguages
 
-<img src = "https://img.shields.io/badge/Python-4683b4?style=flat-square&logo=Python&logoColor=FFFFFF"/>
-<img src = "https://img.shields.io/badge/scikit-learn-FF4500?style=flat-square&logo=scikit-learn&logoColor=FFFFFF"/>
-<img src = "https://img.shields.io/badge/PyTorch-FF0000?style=flat-square&logo=PyTorch&logoColor=FFFFFF"/>
+<img src = "https://img.shields.io/badge/Python-4683b4?style=flat-square&logo=Python&logoColor=FFFFFF"/><img src = "https://img.shields.io/badge/scikit_learn-FF4500?style=flat-square&logo=scikit-learn&logoColor=FFFFFF"/><img src = "https://img.shields.io/badge/PyTorch-FF0000?style=flat-square&logo=PyTorch&logoColor=FFFFFF"/>
 
 
 
