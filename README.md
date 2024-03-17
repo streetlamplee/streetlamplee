@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href = "https://streetlamplee.github.io/" target="_blank"><img src = "https://img.shields.io/badge/BLOG-FFFFFF?style=flat-square&logo=181717&logoColor=7FFFD4"/></a>
+<a href = "https://streetlamplee.github.io/" target="_blank"><img src = "https://img.shields.io/badge/BLOG-7FFFD4?style=flat-square&logo=GitHub&logoColor=000000"/></a>
 
 <!--
 **streetlamplee/streetlamplee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
