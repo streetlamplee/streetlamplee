@@ -2,8 +2,8 @@
 <a href = "https://streetlamplee.github.io/" target="_blank"><img src = "https://img.shields.io/badge/BLOG-000000?style=flat-square&logo=GitHub&logoColor=FFFFFF"/></a>
 <a href = "mailto: jinintg@gmail.com" target="_blank"><img src = "https://img.shields.io/badge/jinintg@gmail.com-FF6347?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
 
-Hi there 👋 I'm student interested in ML/DL/Data Engineering.<br>
-Almost of my work is done by <mark>Python</mark>.
+Hi there 👋 I'm student interested in ML/DL/AI/Edge Computing.<br>
+Almost of my work is done by <mark>Python & C++</mark>.
 
 I'm in love with coffee like almost of coders are.<br>
 I hope me to resolve multiple issues all around the world with data 😃
